@@ -125,3 +125,10 @@ A classic Tic Tac Toe game built with React, styled with Tailwind CSS, featuring
 * Open your browser and navigate to the address shown in your terminal (usually http://localhost:5173).
 
 * You should now see the Tic Tac Toe game running!
+
+![Screenshot 2025-05-24 161648](https://github.com/user-attachments/assets/5079013b-e462-4592-b92b-82efb62646f8)
+![Screenshot 2025-05-24 234524](https://github.com/user-attachments/assets/060c0ec8-a877-4387-8639-ba2b46fe622d)
+![Screenshot 2025-05-24 234305](https://github.com/user-attachments/assets/1dea065f-0743-4f40-bfde-05fc07b466fe)
+![Screenshot 2025-05-24 234206](https://github.com/user-attachments/assets/1a55cd13-dff1-40ab-aa47-053a266d378b)
+![Screenshot 2025-05-24 234002](https://github.com/user-attachments/assets/c04317aa-5fca-458f-89e1-e8178d66395e)
+![Screenshot 2025-05-24 233944](https://github.com/user-attachments/assets/9483bcee-4d43-45df-b63c-39d95495b631)
